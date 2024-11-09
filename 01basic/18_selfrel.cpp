@@ -63,3 +63,6 @@ S=&T;
 S->calarea();
 S->displayarea();
 }
+
+
+...
